@@ -1,5 +1,15 @@
 # ROMAN DODECAHEDRON: THE ANCIENT UNIVERSAL INSTRUMENT TUNER
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16945491.svg)](https://doi.org/10.5281/zenodo.16945491)
+
+
+
+
+
+
+
 My research demonstrates that the Roman dodecahedron served as a precision acoustic calibration device for ancient wind instruments. Each of the 12 holes corresponds to specific instrument diameters from 8 different cultures, creating the world's first universal tuner.
 
 ## SCIENTIFIC FINDINGS: PERFECT MATCHES
@@ -7,21 +17,37 @@ My research demonstrates that the Roman dodecahedron served as a precision acous
 Hole  | Diameter   | Instrument                    | Culture   | Frequency  | Precision
 ---------------------------------------------------------------------------
    0  |     26.0   | TIBETAN_DUNG_CHEN             | Tibetan    |     55.0Hz | ±0.50mm
+   
    0  |     26.0   | ETRUSCAN_TRUMPET              | Etruscan   |     48.5Hz | ±0.00mm
+   
    1  |     21.5   | ROMAN_TUBA                    | Roman      |     98.0Hz | ±0.50mm
+   
    2  |     16.5   | HEBREW_SHOFAR                 | Hebrew     |     85.0Hz | ±0.50mm
+   
    2  |     16.5   | CELTIC_HORN                   | Celtic     |    110.0Hz | ±0.00mm
+   
    4  |     11.5   | HINDU_SANKHA                  | Hindu      |    146.6Hz | ±0.00mm
+   
    5  |     17.0   | HEBREW_SHOFAR                 | Hebrew     |     85.0Hz | ±0.00mm
+   
    5  |     17.0   | CELTIC_HORN                   | Celtic     |    110.0Hz | ±0.50mm
+   
    6  |     25.5   | TIBETAN_DUNG_CHEN             | Tibetan    |     55.0Hz | ±0.00mm
+   
    6  |     25.5   | ETRUSCAN_TRUMPET              | Etruscan   |     48.5Hz | ±0.50mm
+   
    7  |     10.5   | GREEK_AULOS                   | Greek      |    156.8Hz | ±0.00mm
+   
    8  |     15.5   | EGYPTIAN_FLUTE                | Egyptian   |    123.5Hz | ±0.00mm
+   
    9  |     22.0   | ROMAN_TUBA                    | Roman      |     98.0Hz | ±0.00mm
+   
   10  |     17.0   | HEBREW_SHOFAR                 | Hebrew     |     85.0Hz | ±0.00mm
+  
   10  |     17.0  | CELTIC_HORN                    | Celtic     |    110.0Hz | ±0.50mm
+  
   11  |     22.0  | ROMAN_TUBA                     | Roman      |     98.0Hz | ±0.00mm
+  
 
 # 1. There is a Millimeter-Perfect Correspondence:
 
